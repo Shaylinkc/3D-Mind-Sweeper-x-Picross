@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1713447728 source:c:\users\shayl\downloads\bigprojectgui\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1713447682 c:\users\shayl\downloads\bigprojectgui\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714001217 source:c:\users\shayl\downloads\bigprojectgui\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	"importObj.h"
+
+1713447728 source:c:\users\shayl\downloads\bigprojectgui - copy\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1713447682 c:\users\shayl\downloads\bigprojectgui - copy\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714163615 source:c:\users\shayl\downloads\bigprojectgui - copy\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	"importObj.h"
+	<windows.h>
+	<math.h>
+
+1713447728 source:c:\users\shayl\downloads\bigprojectgui - copy - copy\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1713447682 c:\users\shayl\downloads\bigprojectgui - copy - copy\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714253648 source:c:\users\shayl\downloads\bigprojectgui - copy - copy\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	<unistd.h>
+	<math.h>
+	<windows.h>
+
+1713447730 source:d:\bigprojectgui\bigprojectgui - copy - copy\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1713447684 d:\bigprojectgui\bigprojectgui - copy - copy\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714341298 source:d:\bigprojectgui\bigprojectgui - copy - copy\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	<unistd.h>
+	<math.h>
+	<windows.h>
+
+1714370514 source:c:\users\shayl\downloads\bigprojectguifinal\bigprojectgui - copy - copy\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1714370514 c:\users\shayl\downloads\bigprojectguifinal\bigprojectgui - copy - copy\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714407258 source:c:\users\shayl\downloads\bigprojectguifinal\bigprojectgui - copy - copy\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	<unistd.h>
+	<math.h>
+	<windows.h>
+
+1714370514 source:c:\users\shayl\onedrive\desktop\bigprojectguifinal\bigprojectgui - copy - copy\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1714370514 c:\users\shayl\onedrive\desktop\bigprojectguifinal\bigprojectgui - copy - copy\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1714407258 source:c:\users\shayl\onedrive\desktop\bigprojectguifinal\bigprojectgui - copy - copy\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	<unistd.h>
+	<math.h>
+	<windows.h>
+
